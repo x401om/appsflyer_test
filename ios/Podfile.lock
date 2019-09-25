@@ -1,0 +1,29 @@
+PODS:
+  - appsflyer_sdk (1.2.0):
+    - AppsFlyerFramework (= 4.10.4)
+    - Flutter
+  - AppsFlyerFramework (4.10.4)
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - appsflyer_sdk (from `.symlinks/plugins/appsflyer_sdk/ios`)
+  - Flutter (from `.symlinks/flutter/ios`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AppsFlyerFramework
+
+EXTERNAL SOURCES:
+  appsflyer_sdk:
+    :path: ".symlinks/plugins/appsflyer_sdk/ios"
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+
+SPEC CHECKSUMS:
+  appsflyer_sdk: 72142801d783f1a72edfbe92a8d07e68d7564357
+  AppsFlyerFramework: aeb793095c1b33170ae30bef66652c0645f409be
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+
+PODFILE CHECKSUM: 10ae9c18d12c9ffc2275c9a159a3b1e281990db0
+
+COCOAPODS: 1.7.5

@@ -1,0 +1,49 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/agoncharov/Work/flutter/.pub-cache/hosted/pub.dartlang.org/appsflyer_sdk-1.2.0/android/src/main/AndroidManifest.xml:1:1-15:12
+INJECTED from /Users/agoncharov/Work/flutter/.pub-cache/hosted/pub.dartlang.org/appsflyer_sdk-1.2.0/android/src/main/AndroidManifest.xml:1:1-15:12
+INJECTED from /Users/agoncharov/Work/flutter/.pub-cache/hosted/pub.dartlang.org/appsflyer_sdk-1.2.0/android/src/main/AndroidManifest.xml:1:1-15:12
+	package
+		ADDED from /Users/agoncharov/Work/flutter/.pub-cache/hosted/pub.dartlang.org/appsflyer_sdk-1.2.0/android/src/main/AndroidManifest.xml:2:3-39
+		INJECTED from /Users/agoncharov/Work/flutter/.pub-cache/hosted/pub.dartlang.org/appsflyer_sdk-1.2.0/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/agoncharov/Work/flutter/.pub-cache/hosted/pub.dartlang.org/appsflyer_sdk-1.2.0/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/agoncharov/Work/flutter/.pub-cache/hosted/pub.dartlang.org/appsflyer_sdk-1.2.0/android/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/agoncharov/Work/flutter/.pub-cache/hosted/pub.dartlang.org/appsflyer_sdk-1.2.0/android/src/main/AndroidManifest.xml:3:5-67
+	android:name
+		ADDED from /Users/agoncharov/Work/flutter/.pub-cache/hosted/pub.dartlang.org/appsflyer_sdk-1.2.0/android/src/main/AndroidManifest.xml:3:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/agoncharov/Work/flutter/.pub-cache/hosted/pub.dartlang.org/appsflyer_sdk-1.2.0/android/src/main/AndroidManifest.xml:4:5-79
+	android:name
+		ADDED from /Users/agoncharov/Work/flutter/.pub-cache/hosted/pub.dartlang.org/appsflyer_sdk-1.2.0/android/src/main/AndroidManifest.xml:4:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/agoncharov/Work/flutter/.pub-cache/hosted/pub.dartlang.org/appsflyer_sdk-1.2.0/android/src/main/AndroidManifest.xml:5:5-76
+	android:name
+		ADDED from /Users/agoncharov/Work/flutter/.pub-cache/hosted/pub.dartlang.org/appsflyer_sdk-1.2.0/android/src/main/AndroidManifest.xml:5:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/agoncharov/Work/flutter/.pub-cache/hosted/pub.dartlang.org/appsflyer_sdk-1.2.0/android/src/main/AndroidManifest.xml:7:5-75
+	android:name
+		ADDED from /Users/agoncharov/Work/flutter/.pub-cache/hosted/pub.dartlang.org/appsflyer_sdk-1.2.0/android/src/main/AndroidManifest.xml:7:22-72
+application
+ADDED from /Users/agoncharov/Work/flutter/.pub-cache/hosted/pub.dartlang.org/appsflyer_sdk-1.2.0/android/src/main/AndroidManifest.xml:8:5-14:19
+receiver#com.appsflyer.SingleInstallBroadcastReceiver
+ADDED from /Users/agoncharov/Work/flutter/.pub-cache/hosted/pub.dartlang.org/appsflyer_sdk-1.2.0/android/src/main/AndroidManifest.xml:9:9-13:20
+	android:exported
+		ADDED from /Users/agoncharov/Work/flutter/.pub-cache/hosted/pub.dartlang.org/appsflyer_sdk-1.2.0/android/src/main/AndroidManifest.xml:9:79-102
+	android:name
+		ADDED from /Users/agoncharov/Work/flutter/.pub-cache/hosted/pub.dartlang.org/appsflyer_sdk-1.2.0/android/src/main/AndroidManifest.xml:9:19-78
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from /Users/agoncharov/Work/flutter/.pub-cache/hosted/pub.dartlang.org/appsflyer_sdk-1.2.0/android/src/main/AndroidManifest.xml:10:13-12:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from /Users/agoncharov/Work/flutter/.pub-cache/hosted/pub.dartlang.org/appsflyer_sdk-1.2.0/android/src/main/AndroidManifest.xml:11:17-79
+	android:name
+		ADDED from /Users/agoncharov/Work/flutter/.pub-cache/hosted/pub.dartlang.org/appsflyer_sdk-1.2.0/android/src/main/AndroidManifest.xml:11:25-76
+uses-sdk
+INJECTED from /Users/agoncharov/Work/flutter/.pub-cache/hosted/pub.dartlang.org/appsflyer_sdk-1.2.0/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/agoncharov/Work/flutter/.pub-cache/hosted/pub.dartlang.org/appsflyer_sdk-1.2.0/android/src/main/AndroidManifest.xml
+INJECTED from /Users/agoncharov/Work/flutter/.pub-cache/hosted/pub.dartlang.org/appsflyer_sdk-1.2.0/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/agoncharov/Work/flutter/.pub-cache/hosted/pub.dartlang.org/appsflyer_sdk-1.2.0/android/src/main/AndroidManifest.xml
+		ADDED from /Users/agoncharov/Work/flutter/.pub-cache/hosted/pub.dartlang.org/appsflyer_sdk-1.2.0/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/agoncharov/Work/flutter/.pub-cache/hosted/pub.dartlang.org/appsflyer_sdk-1.2.0/android/src/main/AndroidManifest.xml

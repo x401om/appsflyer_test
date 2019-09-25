@@ -1,0 +1,2 @@
+com.appsflyer.appsflyersdk
+xml appsflyer_backup_rules
